@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kishanappana
 - 👀 I’m interested in git hub    
-- 🌱 I’m currently learning ntg
+- 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me soo
+- 📫 How to reach me 
 
 <!---
 kishanappana/kishanappana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
